@@ -17,6 +17,9 @@ Code is put together so that stuff worked ASAP rather than putting too much thou
 
 ## GIFS dump
 Ghetto first person legs
+
 ![](GIFS/ghetto-legs.gif)
+
 Ads socket-based alignment
+
 ![](GIFS/socket-alignment.gif)
