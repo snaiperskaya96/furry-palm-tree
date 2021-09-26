@@ -1,7 +1,7 @@
 Dynamic ADS alignment prototype
 ===
 
-![](GIFS/dynamic-ads.gif)
+![](GIFS/dynamic-aim.gif)
 
 Centuries ago I've made this project to figure out how doable it would be to align guns in ADS without animation support and test other ghetto solutions for things like legs in first person.
 
