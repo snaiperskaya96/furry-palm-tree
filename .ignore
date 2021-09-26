@@ -1,0 +1,10 @@
+.git
+.vs
+.vscode
+Assets
+Content
+DerivedDataCache
+Intermediate
+Saved
+
+#wtf is this file?
