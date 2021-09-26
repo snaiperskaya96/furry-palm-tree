@@ -16,5 +16,7 @@ I genuinely don't remember much about this project, I just made sure this runs o
 Code is put together so that stuff worked ASAP rather than putting too much thought into it so do not expect anything from it, I'd probably would do it differently for anything more than a prototype.
 
 ## GIFS dump
+Ghetto first person legs
 ![](GIFS/ghetto-legs.gif)
+Ads socket-based alignment
 ![](GIFS/socket-alignment.gif)
